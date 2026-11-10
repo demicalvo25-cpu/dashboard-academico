@@ -1,0 +1,6 @@
+id,nombre,edad,curso,calificacion,progreso
+1,Ana,25,Python,90,100
+2,Carlos,30,Pandas,85,80
+3,Maria,22,Python,95,100
+4,Jose,28,NumPy,70,50
+5,Laura,24,Pandas,88,90
